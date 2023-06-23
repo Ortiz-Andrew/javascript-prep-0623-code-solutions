@@ -1,0 +1,10 @@
+const languages = ['html', 'css', 'javascript', 'react', 'node', 'postgres'];
+console.log(languages);
+const firstElement = languages;
+console.log(firstElement[0]);
+const thridElement = 'javascript';
+console.log(thridElement);
+const length = languages.length;
+console.log(length);
+const lastElement = 'postgres';
+console.log(lastElement);
